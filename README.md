@@ -1,2 +1,1 @@
-# iPadWorkflowSetup
-Sample
+# Sample
